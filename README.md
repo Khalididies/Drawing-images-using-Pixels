@@ -18,3 +18,15 @@ sound intresting , let's get to the pictures!!
 >Results
 
 ![image](https://github.com/Khalididies/Drawing-images-using-shapes/blob/main/Gifs%20and%20Images/1.gif)
+
+>Original Image 
+![gid](https://github.com/Khalididies/Drawing-images-using-shapes/blob/main/Gifs%20and%20Images/13.jpg)
+>Results
+
+![image](https://github.com/Khalididies/Drawing-images-using-shapes/blob/main/Gifs%20and%20Images/2.gif)
+
+>Original Image 
+![gid](https://github.com/Khalididies/Drawing-images-using-shapes/blob/main/Gifs%20and%20Images/14.jpg)
+>Results
+
+![image](https://github.com/Khalididies/Drawing-images-using-shapes/blob/main/Gifs%20and%20Images/3.gif)
