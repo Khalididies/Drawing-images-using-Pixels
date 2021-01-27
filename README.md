@@ -31,5 +31,5 @@ sound intresting , let's get to the pictures!!
 > `Results :`
 <img src="https://github.com/Khalididies/Drawing-images-using-shapes/blob/main/Gifs%20and%20Images/3.gif" width="600" height="403">
 
-##Comments / Questions
-You can reach me at [linkedin](https://www.linkedin.com/in/khalid-dies-195797203/)
+## Comments / Questions
+>You can reach me at [linkedin](https://www.linkedin.com/in/khalid-dies-195797203/)
