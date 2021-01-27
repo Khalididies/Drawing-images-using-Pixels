@@ -13,4 +13,7 @@ sound intresting , let's get to the pictures!!
 >}
 > ```
 ## Gifs And Images :framed_picture:
+>Original Image 
+![gid](https://github.com/Khalididies/Drawing-images-using-shapes/blob/main/Gifs%20and%20Images/11.jpg)
+>Results
 ![gid](https://github.com/Khalididies/Drawing-images-using-shapes/blob/main/Gifs%20and%20Images/1.gif)
