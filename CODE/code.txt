@@ -1,0 +1,3 @@
+if (you want code == True){
+ send email to ( khaliddies95@gmail.com )
+}
