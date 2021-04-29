@@ -2,6 +2,8 @@
 the main aim of this project is to recreate image using moving shapes ( objects )
 
 sound intresting , let's get to the pictures!!
+## Inspired by
+>Dr. Nader Salih
 
 ## IDE
 >Processing IDE (Processing 3)
