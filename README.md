@@ -1,4 +1,4 @@
-# Drawing-images-using-shapes
+# Drawing-images-using-Pixels
 the main aim of this project is to recreate image using moving Pixels ( objects )
 
 sound intresting , let's get to the pictures!!
