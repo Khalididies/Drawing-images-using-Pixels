@@ -1,5 +1,5 @@
 # Drawing-images-using-shapes
-the main aim of this project is to recreate image using moving shapes ( objects )
+the main aim of this project is to recreate image using moving Pixels ( objects )
 
 sound intresting , let's get to the pictures!!
 ## Inspired by
